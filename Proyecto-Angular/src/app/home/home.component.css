@@ -1,0 +1,16 @@
+.texto{
+    background-color: #85182A;
+    width: 50%;
+    border-radius: 20px;
+    font-family: monospace;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+}
+
+.padre{
+    
+    display: flex;
+    justify-content: center;
+    
+}

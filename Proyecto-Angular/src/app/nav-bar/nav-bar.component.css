@@ -1,0 +1,13 @@
+.container{
+    padding-top: 2%;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-around;
+}
+
+.screen{
+    color: #ffffff;
+    font-size: 1.7em;
+    font-family: cursive;
+    text-decoration: none;
+}
