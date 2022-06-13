@@ -8,7 +8,7 @@
 }
 
 .tarjeta{
-    background-color: #641220;
+    background-color: #77030B;
     border-radius: 20px;
     width: 25%;
     display: flex;
@@ -18,7 +18,7 @@
 .tittle{
     display: flex;
     justify-content: center;
-    color: #ADB5BD;
+    color: #cac8c8;
     font-size: 3em;
     font-family: monospace;
 }
@@ -30,4 +30,5 @@
 .text{
     font-size: 1.5em;
     font-family: monospace;
+    color: #ADB5BD;
 }

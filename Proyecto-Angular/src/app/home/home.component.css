@@ -1,11 +1,13 @@
 .texto{
-    background-color: #85182A;
-    width: 50%;
+    background-color: #9F040E;
+    width: 55%;
+    padding: 1.5%;
     border-radius: 20px;
     font-family: monospace;
     font-size: 2em;
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .padre{
@@ -13,6 +15,24 @@
     display: flex;
     justify-content: center;
     
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.tittle{
+    color: #FFFFFF;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    color: #CED4DA;
 }
 
 footer{
