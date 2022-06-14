@@ -1,0 +1,31 @@
+.container{
+    margin: 2% 0 2% 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.red{
+    background-color: #77030B;
+    width: 10%;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.image{
+    margin: 0 0 1% 0;
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    border-radius: 10px;
+    max-width: 80%;
+}
+
+.tittle{
+    color: #E9ECEF;
+    font-family: monospace;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+}

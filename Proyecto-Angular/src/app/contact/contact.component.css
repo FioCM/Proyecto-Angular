@@ -1,0 +1,37 @@
+.padre{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: #9F040E;
+    width: 60%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.tittle{
+    color: #FFFFFF;
+    font-size: 4em;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+
+.text{
+    color: #E9ECEF;
+    font-size: 2em;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    color: #666666;
+}
