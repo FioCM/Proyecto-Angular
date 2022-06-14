@@ -1,0 +1,42 @@
+.container{
+    background-color: #77030B;
+    padding: 3%;
+    border-radius: 15px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+
+.img{
+    width: 80%;
+    border-radius: 15px;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+}
+
+.link{
+    color: #E9ECEF;
+    text-decoration: none;
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    background-color: #2B3035;
+    width: 20%;
+    color: #E9ECEF;
+    font-family: monospace;
+    border: 2px solid #2B3035;
+    border-radius: 5px;
+    font-size: 1.5em;
+}

@@ -27,6 +27,18 @@
     justify-content: center;
 }
 
+.tarjetas{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+
+.cards{
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+
 footer{
     color: #666666;
 }

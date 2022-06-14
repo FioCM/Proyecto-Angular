@@ -9,6 +9,9 @@ import { CardsComponent } from './cards/cards.component';
 import { TypesComponent } from './types/types.component';
 import { ServicesComponent } from './services/services.component';
 import { TarjetaComponent } from './tarjeta/tarjeta.component';
+import { ContactComponent } from './contact/contact.component';
+import { ErrorPageComponent } from './error-page/error-page.component';
+import { RedesComponent } from './redes/redes.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { TarjetaComponent } from './tarjeta/tarjeta.component';
     CardsComponent,
     TypesComponent,
     ServicesComponent,
-    TarjetaComponent
+    TarjetaComponent,
+    ContactComponent,
+    ErrorPageComponent,
+    RedesComponent
   ],
   imports: [
     BrowserModule,
